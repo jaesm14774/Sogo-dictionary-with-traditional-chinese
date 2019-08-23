@@ -1,5 +1,7 @@
 # Sogo-dictionary-with-traditional-chinese
 
+轉好檔案為dictionary.rar
+
 [搜狗詞庫](https://pinyin.sogou.com/dict/)是大陸網站，收集各式各樣類型的辭典，分類極為詳細，雖然更新頻率未確定，但是一個好用的網站。
 
 而對繁體使用者來說，使用上的困難點其一為簡體中文，其二為較麻煩的scel檔格式，而非常用txt或csv檔。
