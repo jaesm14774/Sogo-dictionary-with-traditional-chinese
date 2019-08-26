@@ -1,6 +1,6 @@
 # Sogo-dictionary-with-traditional-chinese
 
-轉好檔案為dictionary.rar
+**轉好檔案為dictionary.rar**
 
 [搜狗詞庫](https://pinyin.sogou.com/dict/)是大陸網站，收集各式各樣類型的辭典，分類極為詳細，雖然更新頻率未確定，但是一個好用的網站。
 
@@ -24,5 +24,3 @@ rename 是將所有資料變成所代表名稱，因為下載時，直接用名�
 
 
 
-
-**檔案過大，分開擺放，依各自所需下載**
